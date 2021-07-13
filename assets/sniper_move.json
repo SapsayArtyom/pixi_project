@@ -1,0 +1,639 @@
+{
+  "frames": {
+    "sniper_move_19.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 41,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 86,
+        "w": 41,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_09.png": {
+      "frame": {
+        "x": 41,
+        "y": 0,
+        "w": 42,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 107,
+        "y": 87,
+        "w": 42,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_18.png": {
+      "frame": {
+        "x": 0,
+        "y": 77,
+        "w": 41,
+        "h": 76
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 87,
+        "w": 41,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_20.png": {
+      "frame": {
+        "x": 83,
+        "y": 0,
+        "w": 41,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 87,
+        "w": 41,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_21.png": {
+      "frame": {
+        "x": 0,
+        "y": 118,
+        "w": 42,
+        "h": 76
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 87,
+        "w": 42,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_22.png": {
+      "frame": {
+        "x": 76,
+        "y": 76,
+        "w": 44,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 88,
+        "w": 44,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_05.png": {
+      "frame": {
+        "x": 124,
+        "y": 0,
+        "w": 46,
+        "h": 75
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 87,
+        "w": 46,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_07.png": {
+      "frame": {
+        "x": 124,
+        "y": 75,
+        "w": 43,
+        "h": 75
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 86,
+        "w": 43,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_08.png": {
+      "frame": {
+        "x": 0,
+        "y": 160,
+        "w": 43,
+        "h": 75
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 107,
+        "y": 87,
+        "w": 43,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_16.png": {
+      "frame": {
+        "x": 75,
+        "y": 160,
+        "w": 40,
+        "h": 75
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 89,
+        "w": 40,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_17.png": {
+      "frame": {
+        "x": 170,
+        "y": 0,
+        "w": 41,
+        "h": 75
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 88,
+        "w": 41,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_02.png": {
+      "frame": {
+        "x": 0,
+        "y": 203,
+        "w": 49,
+        "h": 74
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 90,
+        "w": 49,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_03.png": {
+      "frame": {
+        "x": 74,
+        "y": 203,
+        "w": 49,
+        "h": 74
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 89,
+        "w": 49,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_04.png": {
+      "frame": {
+        "x": 150,
+        "y": 150,
+        "w": 47,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 88,
+        "w": 47,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_06.png": {
+      "frame": {
+        "x": 211,
+        "y": 0,
+        "w": 45,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 87,
+        "w": 45,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_10.png": {
+      "frame": {
+        "x": 167,
+        "y": 75,
+        "w": 40,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 89,
+        "w": 40,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_11.png": {
+      "frame": {
+        "x": 211,
+        "y": 74,
+        "w": 40,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 90,
+        "w": 40,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_23.png": {
+      "frame": {
+        "x": 207,
+        "y": 148,
+        "w": 46,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 90,
+        "w": 46,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_24.png": {
+      "frame": {
+        "x": 0,
+        "y": 252,
+        "w": 48,
+        "h": 74
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 91,
+        "w": 48,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_00.png": {
+      "frame": {
+        "x": 148,
+        "y": 224,
+        "w": 50,
+        "h": 73
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 92,
+        "w": 50,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_01.png": {
+      "frame": {
+        "x": 198,
+        "y": 222,
+        "w": 50,
+        "h": 73
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 91,
+        "w": 50,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_12.png": {
+      "frame": {
+        "x": 74,
+        "y": 252,
+        "w": 40,
+        "h": 73
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 92,
+        "w": 40,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_13.png": {
+      "frame": {
+        "x": 256,
+        "y": 0,
+        "w": 40,
+        "h": 73
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 92,
+        "w": 40,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_14.png": {
+      "frame": {
+        "x": 256,
+        "y": 73,
+        "w": 40,
+        "h": 73
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 92,
+        "w": 40,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_15.png": {
+      "frame": {
+        "x": 253,
+        "y": 146,
+        "w": 40,
+        "h": 73
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 91,
+        "w": 40,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sniper_move_25.png": {
+      "frame": {
+        "x": 296,
+        "y": 0,
+        "w": 49,
+        "h": 73
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 92,
+        "w": 49,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "sniper_move.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 345,
+      "h": 300
+    },
+    "scale": 1
+  }
+}

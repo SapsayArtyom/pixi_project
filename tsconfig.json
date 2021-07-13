@@ -1,0 +1,39 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "outDir": "./dist/",
+        "removeComments": true,
+        "sourceMap": true,
+        "watch": false,
+        "module": "es6",
+        "jsx": "react",
+        "typeRoots": [
+            "./node_modules/@types"
+            ],
+        "allowJs": true,
+        "lib": ["es2015", "dom", "es2017"],
+        "noImplicitAny": false,
+        "baseUrl": ".",
+        "allowSyntheticDefaultImports": true,
+        "paths": {
+            "*": ["../types/*"],
+            "gsap": ["./node_modules/gsap/index.js"], // This mapping is relative to "baseUrl"
+            "accounting-js": ["./node_modules/accounting-js/dist/accounting.es6"],
+            "pixi.js": ["./node_modules/pixi.js/pixi.js.d.ts"],
+            // "pixi-filters": ["./node_modules/pixi-filters/types.d.ts"],
+            "pixi-filters": ["./node_modules/@pixi/filter-outline/filter-outline"],
+            // "pixi-glow": ["./node_modules/@pixi/filter-glow/filter-outline"],
+            // "pixi-filters": ["./node_modules/@pixi/filter-outline/types.d.ts"],
+          }
+    },
+    "filesGlob": [
+        "src/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ],
+    "lib": [
+        "dom",
+        "es7"
+    ],
+}
