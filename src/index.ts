@@ -45,14 +45,14 @@ class Main {
     // }
 
     protected initGame() {
-        console.log('init!!!');
-
         const { loader } = MyLoader;
-        loader.add('bg', './bg.jpg');
+        loader.add('bg', './bg.jpg')
+            .add('enemy_move', './sniper_move.json')
+            .add('death', './death.json');
 
         loader.load(() => {
             this.game = Game.instance();
-            // this.game = new Game();
+            this.game.init();
         });
     }
 }
